@@ -15,7 +15,7 @@ import javax.imageio.ImageIO;
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
-
+// 123
 public class ShootGame extends JPanel {
 	public static final int WIDTH = 400; // ����
 	public static final int HEIGHT = 654; // ����
